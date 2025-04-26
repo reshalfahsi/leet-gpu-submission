@@ -11,6 +11,7 @@
 ### **Triton**
 
 - [Vector Addition](./triton/vector_addition)
+- [Matrix Multiplication](./triton/matrix_multiplication)
 
 ## **Medium**
 
