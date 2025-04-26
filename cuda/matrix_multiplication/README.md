@@ -102,4 +102,4 @@ $$
 [LeetGPU Matrix Multiplication](https://leetgpu.com/challenges/matrix-multiplication)
 
 
-## **[Back to Home](.../)**
+## **[Back to Home](../../)**
