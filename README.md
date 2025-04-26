@@ -2,8 +2,10 @@
 
 ## **Easy**
 
-- [Vector Addition](./vector_addition)
-- [Matrix Multiplication](./matrix_multiplication)
+### **CUDA**
+
+- [Vector Addition](./cuda/vector_addition)
+- [Matrix Multiplication](./cuda/matrix_multiplication)
 
 ## **Medium**
 
