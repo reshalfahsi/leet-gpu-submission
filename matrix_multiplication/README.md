@@ -18,19 +18,23 @@ Input:
 Matrix $A$ ($2 \times 2$):
 
 
-$\begin{bmatrix}
+$$
+\begin{bmatrix}
 1.0 & 2.0 \\
 3.0 & 4.0
-\end{bmatrix}$
+\end{bmatrix}
+$$
 
 
 Matrix $B$ ($2 \times 2$):
 
 
-$\begin{bmatrix}
+$$
+\begin{bmatrix}
 5.0 & 6.0 \\
 7.0 & 8.0
-\end{bmatrix}$
+\end{bmatrix}
+$$
 
 
 Output: 
@@ -39,10 +43,12 @@ Output:
 Matrix $C$ ($2 \times 2$):
 
 
-$\begin{bmatrix}
+$$
+\begin{bmatrix}
 19.0 & 22.0 \\
 43.0 & 50.0
-\end{bmatrix}$
+\end{bmatrix}
+$$
 
 
 ## **Example 2:**
@@ -53,30 +59,36 @@ Input:
 Matrix $A$ ($1 \times 3$):
 
 
-$\begin{bmatrix}
+$$
+\begin{bmatrix}
 1.0 & 2.0 & 3.0
-\end{bmatrix}$
+\end{bmatrix}
+$$
 
 
 Matrix $B$ ($3 \times 1$):
 
 
-$\begin{bmatrix}
+$$
+\begin{bmatrix}
 4.0 \\
 5.0 \\
 6.0
-\end{bmatrix}$
+\end{bmatrix}
+$$
 
 
 Output: 
 
 
-Matrix $C$ ($1 \times 21):
+Matrix $C$ ($1 \times 21$):
 
 
-$\begin{bmatrix}
+$$
+\begin{bmatrix}
 32.0
-\end{bmatrix}$
+\end{bmatrix}
+$$
 
 
 ## **Constraints**
