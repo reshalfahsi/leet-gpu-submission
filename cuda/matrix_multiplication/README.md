@@ -81,7 +81,7 @@ $$
 Output: 
 
 
-Matrix $C$ ($1 \times 21$):
+Matrix $C$ ($1 \times 1$):
 
 
 $$
@@ -100,3 +100,6 @@ $$
 ## **Source**
 
 [LeetGPU Matrix Multiplication](https://leetgpu.com/challenges/matrix-multiplication)
+
+
+## **[Back to Home](../)**
