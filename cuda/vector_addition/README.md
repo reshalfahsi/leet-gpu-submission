@@ -34,7 +34,7 @@ Output: C = [3.8, 3.8, 3.8]
 [LeetGPU Vector Addition](https://leetgpu.com/challenges/vector-addition)
 
 
-## **[Back to Home](././)**
+## **[Back to Home](.../)**
 
 
 
